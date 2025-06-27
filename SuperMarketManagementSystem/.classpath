@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jar_files/fontawesomefx-8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/castor-core-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/spring-aop-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/spring-context-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/castor-xml-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/spring-asm-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/spring-beans-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/spring-core-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/spring-expression-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/stax-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Downloads/jar_files (1)/stax-api-1.0-2.jar"/>
+	<classpathentry kind="con" path="net.sf.jasperreports.JR_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-7.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-barbecue-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-barcode4j-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-castor-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-chart-customizers-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-charts-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-chart-themes-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-chrome-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-data-adapters-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-data-adapters-http-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-ejbql-j2ee-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-excel-poi-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-fastexcel-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-fonts-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-functions-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-google-maps-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-groovy-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-hibernate-j2ee-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-interactivity-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-javascript-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-jaxen-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-jdt-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-json-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-legacy-jrxml-barbecue-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-legacy-jrxml-barcode4j-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-legacy-jrxml-charts-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-legacy-jrxml-core-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-legacy-jrxml-google-maps-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-metadata-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-olap-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-pdf-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-sort-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-spring-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-velocity-7.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC/Documents/jasper_lib/jasperreports-xalan-7.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
